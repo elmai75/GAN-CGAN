@@ -8,4 +8,4 @@
 
   Ce BE decopose en deux parties:
 
-  * Partie1-DCGAN : 
+  * Partie1-DCGAN : L'objetcif de cette partie c'est de comprendre les bases de DCGAN et de generere des chiffres manuscrits avec la re-entrainement de modèle
